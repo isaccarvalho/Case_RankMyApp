@@ -1,9 +1,11 @@
-# isac_carvalho
-Repositório com a base de dados e as visualizações dos resultados do case proposto pela RankMyApp.
-
+# Case Cientista de Dados RankMyAPP
 *Dados fictícios
 
-Algoritmos ML usados: NLP Text Mining
+Tema: Análise de texto e sentimentação
+
+Linguagem usada R
+
+Algoritmos ML usados: NLP (Text Mining)
 
 Para conhecer o desenvolvimento do projeto acesse o meu R Markdown:
 https://rpubs.com/Isac_Carvalho91/595776
